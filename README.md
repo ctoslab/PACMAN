@@ -10,7 +10,7 @@ This tool will obfuscate EXE file it's very simple to use.
 
 Pacman is a crypter tool that automate procedures during obfuscation and make's your payload fully undetectable. It works with njRAT & Metasploit and some other RAT's. This tool was made for Windows users.
 
-Video Proof: https://youtu.be/0yB8tqXXYX8
+Video Proof (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/0yB8tqXXYX8
 
 Scan Results: https://virusscan.jotti.org/en-US/filescanjob/a3yboojd9r
 
@@ -37,7 +37,7 @@ IMPORTANT! pip install throwbin
 8. Drag & Drop your payload.exe into the tool
 9. press ENCRYPT button.
 
-To learn more please watch this video: https://youtu.be/0yB8tqXXYX8
+To learn more please watch this video (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/0yB8tqXXYX8
 
 ### 📡 HOW TO UPDATE
 
